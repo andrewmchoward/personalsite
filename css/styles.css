@@ -1,0 +1,166 @@
+body {
+  background-color: #1E212D;
+  font-family: 'Hind Siliguri', sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+a {
+  color: #126E82;
+  font-family: 'Hind Siliguri', sans-serif;
+}
+
+a:hover {
+  color: #1593ad;
+}
+
+h1 {
+  color: #EEEEEE;
+  font-family: 'Birthstone', cursive;
+  font-size: 4rem;
+  margin: 55px 0 0;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 2.5rem;
+  color: #FFD369;
+}
+
+h3 {
+  font-family: 'Bebas Neue', cursive;
+  color: #FFD369;
+}
+
+hr {
+  color: #FFD369;
+  border-style: dotted;
+  border-top: none;
+  border-width: 6px;
+  border-spacing: 5px;
+  width: 5%;
+  margin: 75px auto;
+}
+
+p {
+  color: #EEEEEE;
+  line-height: 1.7;
+}
+
+.top-container {
+  background-color: #222831;
+  padding: 20px;
+  padding-top: 70px;
+  padding-bottom: 0;
+  position: relative;
+}
+
+.middle-container {
+  background-color: #393E46;
+  padding: 100px 0 30px 0;
+}
+
+.bottom-container {
+  background-color: #AAAAAA;
+  padding: 25px 0 10px;
+}
+
+.top-cloud {
+  width: 150px;
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  width: 150px;
+  position: absolute;
+  left: 270px;
+  bottom: 320px;
+}
+
+.trees-img {
+  height: 280px;
+  width: 400px;
+  margin-top: 50px;
+  position: relative;
+  bottom: -10px;
+}
+
+.h2-1 {
+  font-size: 1.5rem;
+  padding-bottom: 20px;
+  color: #EEEEEE;
+  font-family: 'Hind Siliguri', sans-serif;
+  font-weight: normal;
+}
+
+.computer {
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.moira {
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 0 auto 100px auto;
+  text-align: left;
+}
+
+.bio {
+  width: 30%;
+  margin: 0 auto;
+}
+
+.copyright {
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.contact-me {
+  width: 40%;
+  margin: 0 auto;
+}
+
+.footer-link {
+  margin: 0 20px;
+  text-decoration: none;
+}
+
+.btn {
+   background: #FFD369;
+   background-image: -webkit-linear-gradient(top, #FFD369, #D4AC4C);
+   background-image: -moz-linear-gradient(top, #FFD369, #D4AC4C);
+   background-image: -ms-linear-gradient(top, #FFD369, #D4AC4C);
+   background-image: -o-linear-gradient(top, #FFD369, #D4AC4C);
+   background-image: -webkit-gradient(to bottom, #FFD369, #D4AC4C);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   color: #393E46;
+  font-family: 'Hind Siliguri', sans-serif;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 12px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 15px;
+}
+
+.btn:hover {
+   background: #FFAE00;
+   border: solid #FFAE00 1px;
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   text-decoration: none;
+}

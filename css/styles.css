@@ -69,20 +69,19 @@ p {
 .top-cloud {
   width: 150px;
   position: absolute;
-  right: 200px;
-  top: 50px;
+  right: 20%;
+  top: 5%;
 }
 
 .bottom-cloud {
   width: 150px;
   position: absolute;
-  left: 270px;
-  bottom: 320px;
+  left: 20%;
+  bottom: 50%;
 }
 
 .trees-img {
-  height: 280px;
-  width: 400px;
+  width: 25%;
   margin-top: 50px;
   position: relative;
   bottom: -10px;
